@@ -1,0 +1,8 @@
+# Compiled files
+*.out
+*.o
+
+# Generated output files
+output.txt
+result.txt
+stego.bmp
